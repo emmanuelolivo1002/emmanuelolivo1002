@@ -22,9 +22,17 @@ Built the booking platform from the ground up with **React, Next.js, and Redux**
 
 Led the React redesign and architecture of the flagship stock market analysis platform, including a drag-and-drop interface for customizable trading layouts. Built the **React Native** mobile app and managed releases to the App Store and Google Play. As a Senior Software Engineer, I managed a remote team of five engineers for more than two years while continuing to write code and lead deployments.
 
-### ATLAS & SearchTexasTax — Ruby Red Hospitality
+### ATLAS — Ruby Red Hospitality
 
-Worked on **ATLAS**, a React-based internal operations tool, and **SearchTexasTax**, a React-based paid SaaS product.
+Worked across the full stack on an internal platform for hotel and restaurant operations, bringing forecasts, reporting, guest reviews, purchasing, and maintenance together.
+
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Supabase, PostgreSQL.
+
+### [SearchTexasTax](https://searchtexastax.com/) — Ruby Red Hospitality
+
+Rebuilt a paid SaaS product for researching Texas hotel and bar revenue, working across frontend, backend, and interface design. The application makes public tax filings searchable and presents property profiles and revenue charts.
+
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Supabase.
 
 ### McAllen Education Foundation — Technology volunteer
 
