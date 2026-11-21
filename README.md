@@ -62,6 +62,12 @@ Created a stock and order management dashboard using **React** and **Next.js**, 
 
 Designed and built a **WordPress** website supporting accessibility and community engagement, integrated donation systems, and managed analytics.
 
+### 🎮 [VerdeRosa](https://github.com/emmanuelolivo1002/VerdeRosa)
+
+Created a narrative-focused Game Boy game for the VerdeRosa art exhibition. The visual novel follows Vero and her guide Xolotl through a world that transforms from green to pink, combining storytelling with short interactive sequences.
+
+**Tools:** GB Studio, Game Boy-compatible pixel art, scene scripting.
+
 
 ---
 
