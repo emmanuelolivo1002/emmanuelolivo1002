@@ -25,9 +25,13 @@ I've built customer-facing applications and internal tools with React and Next.j
 
 Built the booking platform from the ground up with **React, Next.js, and Redux**, and worked on its React-based admin dashboard for reservations, rates, and payments. Built **Node.js and Express** APIs, set up **MySQL on Amazon RDS**, and configured deployment pipelines using **AWS Amplify, App Runner, and Elastic Beanstalk**.
 
+**Stack:** React, Next.js, Redux, Node.js, Express, MySQL, Amazon RDS, AWS Amplify, App Runner, Elastic Beanstalk.
+
 ### 📈 [WealthCharts](https://www.wealthcharts.com/)
 
 Led the React redesign and architecture of the flagship stock market analysis platform, including a drag-and-drop interface for customizable trading layouts. Built the **React Native** mobile app and managed releases to the App Store and Google Play. As a Senior Software Engineer, I managed a remote team of five engineers for more than two years while continuing to write code and lead deployments.
+
+**Stack:** React, TypeScript, React Native, Tailwind CSS.
 
 ### 🏨 ATLAS  
 *Ruby Red Hospitality · [View portfolio projects](https://emmanuelolivo.com/#projects)*
@@ -51,6 +55,8 @@ Set up the foundation's website, administrative email, and grant application sys
 ### 📊 Perspective Hospitality Dashboard
 
 Created a stock and order management dashboard using **React** and **Next.js**, implemented CI/CD pipelines, and contributed features using **Vue** and **Angular**.
+
+**Stack:** React, Next.js, Vue, Angular, AWS, Microsoft Azure, CI/CD.
 
 ### 📖 [Unfolded: Poetry Project](https://unfoldedpoetryproject.com/)
 
