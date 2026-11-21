@@ -1,60 +1,59 @@
-# 👋 Hey there, I'm Emmanuel!
+# 👋 Hi, I'm Emmanuel Olivo
 
-Welcome to my GitHub profile! I'm a **Front-End Engineer** with over **8 years of experience** developing dynamic, user-friendly, and scalable web and mobile applications. I'm passionate about building exceptional digital experiences and always eager to learn and share new technologies.
+I'm a **Senior Software Engineer** with over **8 years of experience** building web and mobile products. I work across frontend architecture, product design, APIs, and deployment, with a focus on accessible, useful experiences.
 
----
+I've built customer-facing applications and internal tools with React and Next.js, led a remote engineering team, and shipped mobile apps with React Native. I also enjoy bringing my background as a digital artist and illustrator into my work.
 
-## 🚀 **About Me**
+## 🚀 What I do
 
-- 🌐 **Tech Stack:**  
-   - **Languages:** HTML5, CSS3, JavaScript (ES2023), TypeScript, Swift, PHP  
-   - **Frameworks & Libraries:** React, Next.js, Gatsby, Vue, Astro, Angular, React Native, TailwindCSS, Redux, TanStack Query (React Query), Zustand, Node.js  
-   - **Build Tools:** Vite, Webpack, Babel  
-   - **CMS & E-Commerce:** WordPress, Strapi, Sanity CMS, Shopify, Squarespace, Magento  
-   - **Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB  
-   - **Cloud Services:** AWS (Amplify, S3, EC2), Microsoft Azure, Railway  
-   - **Tools:** Figma, Adobe XD, Visual Studio Code, Xcode, Android Studio, Postman, Jest  
+- Build interactive web applications, booking experiences, admin dashboards, and mobile products.
+- Design and develop interfaces with React, TypeScript, and modern frontend tools.
+- Work across APIs, databases, cloud deployments, and integrations.
+- Lead and support engineers through architecture, hiring, training, code reviews, and releases.
+- Improve web performance and accessibility, and contribute to open-source development.
 
-- 🎨 **What I Do:**  
-   - I specialize in crafting engaging **UI/UX** for both web and mobile platforms.  
-   - I have a deep love for **design systems, admin dashboards**, and highly interactive apps.  
-   - I’m passionate about **open-source development** and continuously improving web performance and accessibility.  
+## 🏆 Selected projects
 
-- 🎮 **What I'm Learning:**  
-   Currently, I’m diving into game development with **Godot** for my personal passion projects.
+### EnjoySPI — Ruby Red Hospitality
 
-- 🎯 **Fun Facts:**
-  - I can solve a Rubik's cube in less than 30 seconds. 
-  - I'm also a digital artist and illustrator, and I love blending my technical and creative skills into my projects.
+Built the booking platform from the ground up with **React, Next.js, and Redux**, and worked on its React-based admin dashboard for reservations, rates, and payments. Built **Node.js and Express** APIs, set up **MySQL on Amazon RDS**, and configured deployment pipelines using **AWS Amplify, App Runner, and Elastic Beanstalk**.
 
----
+### WealthCharts
 
-## 🏆 **Key Projects**
+Led the React redesign and architecture of the flagship stock market analysis platform, including a drag-and-drop interface for customizable trading layouts. Built the **React Native** mobile app and managed releases to the App Store and Google Play. As a Senior Software Engineer, I managed a remote team of five engineers for more than two years while continuing to write code and lead deployments.
 
-### 🌟 **WealthCharts**  
-- Refactored and redesigned an award-winning Stock Market Analysis platform with **React** and **TypeScript**.  
-- Developed scalable single-page applications, admin tools, and mobile apps using **React Native** and **TailwindCSS**.
+### ATLAS & SearchTexasTax — Ruby Red Hospitality
 
-### 🌟 **Perspective Hospitality Dashboard**  
-- Created a stock/order management dashboard with **React** and **Next.js**.  
-- Implemented CI/CD pipelines and contributed features using **Vue** and **Angular** frameworks.
+Worked on **ATLAS**, a React-based internal operations tool, and **SearchTexasTax**, a React-based paid SaaS product.
 
-### 🌟 **Unfolded: Poetry Project**  
-- Designed and built a WordPress-based website to promote accessibility and community engagement.  
-- Integrated donation systems and managed analytics tools for data tracking.
+### McAllen Education Foundation — Technology volunteer
 
-More projects can be found in my repositories! 🔍  
+Set up the foundation's website, administrative email, and grant application system. Built an AI-assisted evaluator that scored more than 300 grant applications against committee-defined rubrics, checked requested items against approved vendors, and flagged applications for human review. The initial review process went from several weeks to approximately two hours. Also configured **Givebutter** fundraising campaigns and donor engagement workflows and migrated approximately 300 donor records.
 
----
+### Perspective Hospitality Dashboard
 
-## 📫 **Let's Connect**
+Created a stock and order management dashboard using **React** and **Next.js**, implemented CI/CD pipelines, and contributed features using **Vue** and **Angular**.
 
-Feel free to reach out to me:  
+### Unfolded: Poetry Project
 
-- 📧 **Email:** [emmanuelo1002@gmail.com]  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/emmanuel-olivo/](https://www.linkedin.com/in/emmanuel-olivo/)
-- 🌐 **Portfolio:** [https://emmanuelolivo.com/](https://emmanuelolivo.com/)
+Designed and built a **WordPress** website supporting accessibility and community engagement, integrated donation systems, and managed analytics.
 
----
+## 🧰 Technologies & tools
 
-Thank you for stopping by! I look forward to collaborating and connecting. 🚀  
+- **Languages:** HTML5, CSS3, JavaScript (ES2023), TypeScript, Swift, PHP
+- **Frameworks & libraries:** React, Next.js, Gatsby, Vue, Astro, Angular, React Native, TailwindCSS, Redux, TanStack Query (React Query), Zustand, Node.js, Express
+- **Build tools:** Vite, Webpack, Babel
+- **CMS & e-commerce:** WordPress, Strapi, Sanity CMS, Shopify, Squarespace, Magento
+- **Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB
+- **Cloud services:** AWS (Amplify, S3, EC2, RDS, App Runner, Elastic Beanstalk), Microsoft Azure, Railway
+- **Tools:** Figma, Adobe XD, Visual Studio Code, Xcode, Android Studio, Postman, Jest
+
+## 🎮 Beyond code
+
+I'm exploring game development with **Godot**, and I can solve a Rubik's cube in under 30 seconds.
+
+## 📫 Let's connect
+
+- **Email:** [emmanuelo1002@gmail.com](mailto:emmanuelo1002@gmail.com)
+- **LinkedIn:** [linkedin.com/in/emmanuel-olivo](https://www.linkedin.com/in/emmanuel-olivo/)
+- **Portfolio:** [emmanuelolivo.com](https://emmanuelolivo.com/)
